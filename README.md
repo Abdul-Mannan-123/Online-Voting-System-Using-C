@@ -31,9 +31,13 @@ This project demonstrates the use of **structures**, **file handling**, **condit
 ## 📂 File Structure
 Online-Voting-System/
 │
+
 ├── main.c # Main program source file
+
 ├── voters.txt # Text file containing voter IDs and passwords
+
 └── README.md # Project documentation
+
 
 ---
 
